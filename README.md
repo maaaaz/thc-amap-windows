@@ -18,6 +18,10 @@ Usage
 2. Extract it and run `amap.exe`
 3. Profit
 
+Prerequisites
+-------------
+* [Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=29)
+
 Disclaimer & licence 
 ---------------------
 The very same as mentioned on https://www.thc.org/thc-amap/.  
